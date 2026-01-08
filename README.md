@@ -39,12 +39,12 @@
 
 ### 🌟 Featured Projects
 
-> - **[Academic Records System](https://sfezekile.github.io/Portfolio/)** - A comprehensive MySQL database for higher education, streamlining academic data management. Developed as part of a Database Management course at my Institute.
-> - **[System Design Case Study](https://sfezekile.github.io/Portfolio/)** - A system design project to solve parking congestion, inefficient space usage, and manual processes for a campus garage through improved logistics.
-> - **[Personal Portfolio](https://sfezekile.github.io/Portfolio/)** - An advanced, creative personal portfolio project built with an out-of-the-box, custom design to showcase my skills.
-> - **[Responsive Landing Page](https://sfezekile.github.io/Portfolio/)** - An intermediate-level, responsive landing page built with HTML and CSS, incorporating navigation and media queries for optimal viewing on all devices.
-> - **[URL Shortener](https://sfezekile.github.io/Portfolio/)** - A beginner-level backend project creating a URL shortener. It generates a short alias for long URLs and handles basic redirection logic.
-> - **[Note Taking WebPage](https://sfezekile.github.io/Portfolio/)** - A beginner-level note-taking webpage using HTML, CSS, and JavaScript. It allows users to save and delete notes, which persist after refreshing.
+> - **[Academic Records System](https://sfezekile.github.io/Portfolio/MySQL.html)** - A comprehensive MySQL database for higher education, streamlining academic data management. Developed as part of a Database Management course at my Institute.
+> - **[System Design Case Study](https://sfezekile.github.io/Portfolio/ParkingSystem.html)** - A system design project to solve parking congestion, inefficient space usage, and manual processes for a campus garage through improved logistics.
+> - **[Note Taking WebPage](https://sfezekile.github.io/Portfolio/Notes.html)** - A beginner-level note-taking webpage using HTML, CSS, and JavaScript. It allows users to save and delete notes, which persist after refreshing.
+> - **[Personal Portfolio](https://sfezekile.github.io/My_Portfolio/)** - An advanced, creative personal portfolio project built with an out-of-the-box, custom design to showcase my skills.
+> - **[Responsive Landing Page](https://sfezekile.github.io/Portfolio/Landing.html)** - An intermediate-level, responsive landing page built with HTML and CSS, incorporating navigation and media queries for optimal viewing on all devices.
+> - **[URL Shortener](https://sfezekile.github.io/Portfolio/URL.html)** - A beginner-level backend project creating a URL shortener. It generates a short alias for long URLs and handles basic redirection logic.
 
 ---
 
