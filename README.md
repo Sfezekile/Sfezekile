@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer from South Africa 🇿🇦</h3>
 
 <p align="center">
-  <a href="https://github.com/Sfezekile?tab=repositories">Projects</a> •
+  <a href="https://github.com/Sfezekile?tab=repositories" style="text-decoration: none; color: white;">Projects</a> •
   <a href="#-skills">Skills</a> •
   <a href="#-connect">Connect</a> •
   <a href="https://github.com/Sfezekile?tab=repositories&q=&type=&language=&sort=stargazers">Highlights</a>
