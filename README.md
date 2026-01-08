@@ -2,24 +2,11 @@
 <h3 align="center">Software Developer from South Africa 🇿🇦</h3>
 
 <p align="center">
-  <a href="https://github.com/Sfezekile?tab=repositories">📂 Projects</a> •
-  <a href="#-skills">💻 Skills</a> •
-  <a href="#-connect">📫 Connect</a> •
-  <a href="https://github.com/Sfezekile?tab=repositories&q=&type=&language=&sort=stargazers">⭐ Highlights</a>
+  <a href="https://github.com/Sfezekile?tab=repositories">Projects</a> •
+  <a href="#-skills">Skills</a> •
+  <a href="#-connect">Connect</a> •
+  <a href="https://github.com/Sfezekile?tab=repositories&q=&type=&language=&sort=stargazers">Highlights</a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sfezekile&show_icons=true&theme=radical)
-  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=Sfezekile&layout=compact&theme=radical)
-</div>
-
-<div align="center">
-  ![Streak](https://streak-stats.demolab.com?user=Sfezekile&theme=radical)
-</div>
 
 ---
 
@@ -72,16 +59,6 @@
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" height="35" alt="Behance" />
   </a>
 </div>
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sfezekile/Sfezekile/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sfezekile/Sfezekile/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sfezekile/Sfezekile/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
