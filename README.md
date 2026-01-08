@@ -39,11 +39,12 @@
 
 ### 🌟 Featured Projects
 
-> *Add your top projects here with links*
-> 
-> - **[Project 1](link)** - Short description
-> - **[Project 2](link)** - Short description
-> - **[Project 3](link)** - Short description
+> - **[Academic Records System](https://sfezekile.github.io/Portfolio/)** - A comprehensive MySQL database for higher education, streamlining academic data management. Developed as part of a Database Management course at my Institute.
+> - **[System Design Case Study](https://sfezekile.github.io/Portfolio/)** - A system design project to solve parking congestion, inefficient space usage, and manual processes for a campus garage through improved logistics.
+> - **[Personal Portfolio](https://sfezekile.github.io/Portfolio/)** - An advanced, creative personal portfolio project built with an out-of-the-box, custom design to showcase my skills.
+> - **[Responsive Landing Page](https://sfezekile.github.io/Portfolio/)** - An intermediate-level, responsive landing page built with HTML and CSS, incorporating navigation and media queries for optimal viewing on all devices.
+> - **[URL Shortener](https://sfezekile.github.io/Portfolio/)** - A beginner-level backend project creating a URL shortener. It generates a short alias for long URLs and handles basic redirection logic.
+> - **[Note Taking WebPage](https://sfezekile.github.io/Portfolio/)** - A beginner-level note-taking webpage using HTML, CSS, and JavaScript. It allows users to save and delete notes, which persist after refreshing.
 
 ---
 
@@ -58,16 +59,16 @@
 ### 🤝 Let's Connect
 
 <div align="left">
-  <a href="[Your LinkedIn URL]" target="_blank">
+  <a href="https://www.linkedin.com/in/sfezekile-kumalo-0717082a0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
-  <a href="mailto:[Your Email]" target="_blank">
+  <a href="mailto:sfezekile.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
-  <a href="[Your Instagram URL]" target="_blank">
+  <a href="https://www.instagram.com/sfezekile.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
   </a>
-  <a href="[Your Behance URL]" target="_blank">
+  <a href="https://www.behance.net/sfezekilekumalo" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" height="35" alt="Behance" />
   </a>
 </div>
