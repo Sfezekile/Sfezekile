@@ -13,12 +13,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sfezekile&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=en&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sfezekile&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="languages" />
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sfezekile&show_icons=true&theme=radical)
+  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=Sfezekile&layout=compact&theme=radical)
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sfezekile&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165" alt="streak" />
+  ![Streak](https://streak-stats.demolab.com?user=Sfezekile&theme=radical)
 </div>
 
 ---
